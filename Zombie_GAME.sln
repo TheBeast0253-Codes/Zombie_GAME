@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Zombie_GAME", "Zombie_GAME.vcxproj", "{A7FC4032-A8A8-46C1-9A5D-6F10FC24D5CA}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GameEngine", "GameEngine\GameEngine.vcxproj", "{8B6F650F-5254-4C7C-B3ED-FC9D5AA956A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7FC4032-A8A8-46C1-9A5D-6F10FC24D5CA}.Debug|x64.ActiveCfg = Debug|x64
+		{A7FC4032-A8A8-46C1-9A5D-6F10FC24D5CA}.Debug|x64.Build.0 = Debug|x64
+		{A7FC4032-A8A8-46C1-9A5D-6F10FC24D5CA}.Release|x64.ActiveCfg = Release|x64
+		{A7FC4032-A8A8-46C1-9A5D-6F10FC24D5CA}.Release|x64.Build.0 = Release|x64
+		{8B6F650F-5254-4C7C-B3ED-FC9D5AA956A6}.Debug|x64.ActiveCfg = Debug|x64
+		{8B6F650F-5254-4C7C-B3ED-FC9D5AA956A6}.Debug|x64.Build.0 = Debug|x64
+		{8B6F650F-5254-4C7C-B3ED-FC9D5AA956A6}.Release|x64.ActiveCfg = Release|x64
+		{8B6F650F-5254-4C7C-B3ED-FC9D5AA956A6}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BBA46B2D-D7A4-4CFF-B38B-AB993405D1BC}
+	EndGlobalSection
+EndGlobal
